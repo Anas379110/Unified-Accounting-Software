@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — برنامج محاسبي متكامل
+# 🛠️ Technologies — Unified Accounting Software
 
 - C#
 - ASP.NET Core

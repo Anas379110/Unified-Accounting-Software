@@ -1,21 +1,20 @@
-# برنامج محاسبي متكامل
-**Unified Accounting Software** · التصنيف: منصة تجارية
+# Unified Accounting Software
+**Unified Accounting Software** · Classification: Commercial Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-برنامج محاسبي واحد: تقارير دقيقة وإدارة رواتب وفواتير ومتابعة سهلة للمخزون بأسلوب بسيط وسلس.
+## Project Overview
+A single accounting application: accurate reporting, payroll and invoicing, and easy inventory tracking presented in a simple, smooth manner.
 
-## أبرز النقاط
-- شجرة حسابات وقيود وقوائم مالية
-- الرواتب والفوترة
-- متابعة المخزون مع تقارير واضحة
+## Highlights
+- Chart of accounts, journal entries, and financial statements
+- Payroll and invoicing
+- Inventory tracking with clear reports
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business Platforms Developer: requirements analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies
 C#, ASP.NET Core, SQL Server, EF Core, React, Reporting
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
